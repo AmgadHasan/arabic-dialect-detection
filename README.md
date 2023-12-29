@@ -1,5 +1,5 @@
 # Arabic Dialect Detection
-### A machine (and deep) learning based model to detect Arabic dialects deployed as a fastapi
+### A machine (and deep) learning-based model to detect Arabic dialects deployed using FastAPI
 Request
 ![Interface](https://i.imgur.com/hi5Yi4H.png)
 Response
@@ -9,7 +9,7 @@ Response
 2. Cleaned train and test sets
 3. Traditional machine learning models (SVM, logistic regression and stacking)
 4. Deep learning models (RNNs)
-5. fastapi server
+5. FastAPI server
 
 ## Getting Started
 To get started with the project, you will need to clone the repository to your local machine:<br>
